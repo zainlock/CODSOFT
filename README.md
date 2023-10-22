@@ -1,4 +1,4 @@
-# CODSOFT-
+# CODSOFT
 <h2><b><i>CodSoft internship Tasks</i></b></h2>
 <p>
   <i>
